@@ -15,15 +15,15 @@ MolarWeigher is a program designed to calculate the molar mass of any substance 
 
 To install the MolarWeigher program, follow these steps:
 
-1. Download the zip file from the GitHub repository.
-2. Right-click on the downloaded zip file and select "Properties."
-3. In the Properties window, check the "Unblock" option.
-4. Click "Apply" to save the changes.
-5. Right-click on the zip file again and select "Extract All" to extract its contents.
-6. Open the extracted folder and locate the "publish" directory.
-7. Double-click on the setup file within the "publish" folder.
-8. Follow the installation instructions provided by the setup file.
-9. Once the installation is complete, you can launch the "MolarWeigherPrototypeGUI_V2" application to start using the program.
+1. Download the zip file from the GitHub repository. ![download zip file](https://user-images.githubusercontent.com/62939509/240211036-6bfc82a8-bd19-44c8-885c-d0dcd670949d.png)
+3. Right-click on the downloaded zip file and select "Properties." ![select properties](https://user-images.githubusercontent.com/62939509/240209417-14fd5c18-88a3-462d-9919-2174065cb1a7.png)
+4. In the Properties window, check the "Unblock" option. ![select unblock](https://user-images.githubusercontent.com/62939509/240209606-3d5d50a9-e007-46de-adac-1212a6f02a0a.png)
+5. Click "Apply" to save the changes. ![click apply](https://user-images.githubusercontent.com/62939509/240209712-fa20be12-2d5a-4d90-8cb7-b673daf8d247.png)
+6. Right-click on the zip file again and select "Extract All" to extract its contents. ![extract all](https://github.com/CaptainPMP/MolarWeigherPrototypeGUI_V2/assets/62939509/2bb312dc-ce42-445a-bc16-c9c492bc61b3)
+7. Open the extracted folder and locate the "publish" directory. ![open publish folder](https://user-images.githubusercontent.com/62939509/240209884-f75bc1fb-4859-4936-9bdd-00b3b3d4421e.png)
+8. Double-click on the setup file within the "publish" folder.
+9. Follow the installation instructions provided by the setup file. ![install setup file](https://user-images.githubusercontent.com/62939509/240210020-b98618b9-54b0-40bd-8c1f-668ae7347ce0.png)
+10. Once the installation is complete, you can launch the "MolarWeigherPrototypeGUI_V2" application to start using the program. ![launch main program](https://user-images.githubusercontent.com/62939509/240210117-d6cf7cd7-5680-4b56-9461-824c50a559f3.png)
 
 Please note that these instructions may vary depending on your operating system and settings. If you encounter any issues during the installation process, refer to the program's documentation or contact the developer for assistance.
 
