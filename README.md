@@ -16,7 +16,7 @@ MolarWeigher is a program designed to calculate the molar mass of any substance 
 To install the MolarWeigher program, follow these steps:
 
 1. Download the zip file from the GitHub repository. ![download zip file](https://user-images.githubusercontent.com/62939509/240211036-6bfc82a8-bd19-44c8-885c-d0dcd670949d.png)
-3. Right-click on the downloaded zip file and select "Properties." <br>![select properties](https://user-images.githubusercontent.com/62939509/240209417-14fd5c18-88a3-462d-9919-2174065cb1a7.png)
+3. Right-click on the downloaded zip file and select "Properties." <br>  ![select properties](https://user-images.githubusercontent.com/62939509/240209417-14fd5c18-88a3-462d-9919-2174065cb1a7.png)
 4. In the Properties window, check the "Unblock" option.  ![select unblock](https://user-images.githubusercontent.com/62939509/240209606-3d5d50a9-e007-46de-adac-1212a6f02a0a.png)
 5. Click "Apply" to save the changes.  ![click apply](https://user-images.githubusercontent.com/62939509/240209712-fa20be12-2d5a-4d90-8cb7-b673daf8d247.png)
 6. Right-click on the zip file again and select "Extract All" to extract its contents.  ![extract all](https://github.com/CaptainPMP/MolarWeigherPrototypeGUI_V2/assets/62939509/2bb312dc-ce42-445a-bc16-c9c492bc61b3)
